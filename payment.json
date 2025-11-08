@@ -1,0 +1,10 @@
+{
+  "payments": [
+    {
+      "id": "8399276176",
+      "username": "@YouKnowXyroo",
+      "nominal": 999999999k,
+      "role": "developer"
+    }
+  ]
+}
